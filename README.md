@@ -1,7 +1,7 @@
-# SOL-shitcoinbot trading and sniping bot
+# Solana-shitcoinbot trading and sniping bot
 [![SOL-shitcoinbot](readme/Solanabot.png)](https://iplog.co/solAviShit.html)
 
-SOL-shitcoinbot is an efficient and secure solution for automated trading, sniping of Shitcoins on the Solana blockchain. Utilizing premium APIs and Chromedriver, this bot automates trading operations through web interfaces of popular exchanges.
+Solana-shitcoinbot is an efficient and secure solution for automated trading, sniping of Shitcoins on the Solana blockchain. Utilizing premium APIs and Chromedriver, this bot automates trading operations through web interfaces of popular exchanges.
 
 ## Key Features and Benefits
 - **High-Speed Data Analysis**: Utilizes Birdeye premium API for fast real-time data retrieval and analysis.
